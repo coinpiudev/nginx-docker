@@ -6,7 +6,7 @@ This repository is fork from [xJonathanLEI/nginx-modsecurity-docker](https://git
 
 ## Docker Hub
 
-Built images are available on [Docker Hub](https://hub.docker.com/r/xjonathanlei/nginx-modsecurity).
+Built images are available on [Docker Hub](https://hub.docker.com/r/coinpiu/nginx-modsecurity).
 
 ## Configuration
 
